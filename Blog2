@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+  </head>
+  <body>
+    
+    <h1>Blog 2: About Me</h1>
+  </hr>
+  <h2>Intesting facts about me</h2>
+  <ul>
+    <li>I am learning to program</li>
+    <li>I have 3 chickens</li>
+    <li>I speak some Germane</li>
+  </ul>
+  </body>
+</html>
